@@ -66,7 +66,7 @@ At bn digital, we believe that the most value is brought by modern yet reliable 
 ![](https://img.shields.io/badge/Photoshop-Image_Editing-informational?style=flat-square&logo=adobe-photoshop&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Docker-Container_Platform-informational?style=flat-square&logo=docker&logoColor=white&color=2bbc8a)
 
-<figure><embed src="https://wakatime.com/share/@bb43d648-836f-4dfb-be67-6bdb6716f76d/e2640dec-5dbe-4c6e-9102-0aec04b5a288.svg"></embed></figure>
+![Wakatime stats](https://wakatime.com/share/@bb43d648-836f-4dfb-be67-6bdb6716f76d/a93efbac-cce0-4f38-8092-4de86cef3923.svg)
 
 ## About bn digital
 
