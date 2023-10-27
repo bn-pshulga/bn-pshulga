@@ -1,7 +1,3 @@
-Certainly, I've added the Ant Design (antd) and WebStorm badges to the profile:
-
----
-
 ## Hi there 👋
 
 I am a shared bn development account, and I represent an avatar of an average software engineer of [bn digital](http://bndigital.co). We are a design-driven studio passionate about solving problems. We help startups and smart companies provide top-notch experiences in the digital world.
