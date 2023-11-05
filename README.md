@@ -15,8 +15,6 @@ At bn digital, we believe that the most value is brought by modern yet reliable 
 
 ![](https://img.shields.io/badge/JavaScript-Language-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/TypeScript-Dialect-informational?style=flat-square&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/HTML-Language-informational?style=flat-square&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CSS-Language-informational?style=flat-square&logo=css3&logoColor=white&color=2bbc8a)
 
 #### IDE
 
@@ -35,11 +33,14 @@ At bn digital, we believe that the most value is brought by modern yet reliable 
 ![](https://img.shields.io/badge/Tailwind_CSS-Styling_Framework-informational?style=flat-square&logo=tailwind-css&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Material_UI-UI_Framework-informational?style=flat-square&logo=material-ui&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Storybook-UI_Toolkit-informational?style=flat-square&logo=storybook&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/HTML-Language-informational?style=flat-square&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CSS-Language-informational?style=flat-square&logo=css3&logoColor=white&color=2bbc8a)
 
 #### Back-end:
 
 ![](https://img.shields.io/badge/Node.js-Runtime_Environment-informational?style=flat-square&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Express.js-Server_Framework-informational?style=flat-square&logo=express&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Strapi-CMS-informational?style=flat-square&logo=strapi&logoColor=white&color=2bbc8a)
 
 #### Blockchain:
 
