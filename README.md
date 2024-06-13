@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a shared bn development account, and I represent an avatar of an average software engineer of [bn digital](http://bndigital.co). We are a design-driven studio passionate about solving problems. We help startups and smart companies provide top-notch experiences in the digital world.
+We are a design-driven studio passionate about solving problems. We help startups and smart companies provide top-notch experiences in the digital world.
 
 ### My specialty
 
@@ -41,6 +41,7 @@ At bn digital, we believe that the most value is brought by modern yet reliable 
 ![](https://img.shields.io/badge/Node.js-Runtime_Environment-informational?style=flat-square&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Express.js-Server_Framework-informational?style=flat-square&logo=express&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Strapi-CMS-informational?style=flat-square&logo=strapi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Sanity-CMS-informational?style=flat-square&logo=sanity&logoColor=white&color=2bbc8a)
 
 #### Blockchain:
 
