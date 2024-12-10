@@ -29,6 +29,7 @@ At bn digital, we believe that the most value is brought by modern yet reliable 
 
 ![](https://img.shields.io/badge/Redux-State_Management-informational?style=flat-square&logo=redux&logoColor=white&color=764ABC)
 ![](https://img.shields.io/badge/Next.js-Framework-informational?style=flat-square&logo=next.js&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Electron-Desktop_Framework-informational?style=flat-square&logo=electron&logoColor=white&color=47848F)
 
 #### UI 
 
