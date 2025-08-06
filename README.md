@@ -39,7 +39,6 @@ At bn digital, we believe that the most value is brought by modern yet reliable 
 ![](https://img.shields.io/badge/Tailwind_CSS-Styling_Framework-informational?style=flat-square&logo=tailwind-css&logoColor=white&color=06B6D4)
 ![](https://img.shields.io/badge/Ant_Design-UI_Framework-informational?style=flat-square&logo=ant-design&logoColor=white&color=1890FF)
 ![](https://img.shields.io/badge/Material-UI_Framework-informational?style=flat-square&logo=mui&logoColor=white&color=007FFF)
-![](https://img.shields.io/badge/NextUI-UI_Framework-informational?style=flat-square&logo=nextdotjs&logoColor=white&color=000000)
 
 ![](https://img.shields.io/badge/Storybook-UI_Toolkit-informational?style=flat-square&logo=storybook&logoColor=white&color=FF4785)
 
