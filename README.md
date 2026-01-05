@@ -88,17 +88,3 @@ I am creative and flexible Full-Stack developer with commercial experience in fi
 ![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat&logo=AmazonRDS&logoColor=white)
 
 ![Wakatime stats](https://wakatime.com/share/@bb43d648-836f-4dfb-be67-6bdb6716f76d/a93efbac-cce0-4f38-8092-4de86cef3923.svg)
-
-## About bn digital
-
-BN Digital is a design-driven studio passionate about solving problems. We help startups and smart companies to provide top-notch experiences in the digital world. We are designers and engineers who make others' lives happier.
-
-Please feel free to reach out to us!
-
-[https://bndigital.co](https://bndigital.co)
-
-[Dribbble](https://dribbble.com/bndigital)
-
-[Behance](https://www.behance.net/bn_digital)
-
-[Linkedin](https://www.linkedin.com/company/bndigital-llc)
